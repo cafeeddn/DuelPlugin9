@@ -1,0 +1,4 @@
+name: DuelPlugin
+version: '1.0-SNAPSHOT'
+main: org.blog.duelPlugin.DuelPlugin
+api-version: '1.20'
